@@ -43,5 +43,11 @@ I sanded the bottom of the drawer guides on the holders that stick out to preven
 
 THere are holes in the drawers behind the magnets for 2 purposes.  1 is to allow you to get the magnets out if you need to by poking it out from the back, and the 2nd is to allow a place for the glue to go when gluing in the magnets.  I found it easier to put all the magnets in the servo arm attachement first.  Then I placed the magnets for the body onto the magnets in the servo arm attachment and push them in into the body and twised the servo arm attachment away leaving the magnets with the correct polarity in the drawer body.  This helped not only assure the polarity is correct, but also helped me insert the magnets without twisting them.
 
+## Installing on the frame
+
+This seciton is going to sound like I'm rambling on, but this is the way I did it.  
+
+I started off by removing the skins and all the utility arm risers/center vent holder from the frame.  This left me with enough room to get a drill in there later. I then put th skins back on and I measured about .25" spacing from the outer skin and cut that out on each of the 4 drawer openeings to start.  I then took the skins off and cut out that opening.  I installed the skins again and clamped in the assembled drawer mounts, without the drawers in them.  I tried to align it up as best I could to allow it to where I want it to.  There is a little room for side to side alignement.  I then filed the openings until I could slide the drawers in and out without hitting anything.  Once that was done,  took off the skins again and drilled a 1/16" pilot hole through the frame and into the part of the drawer holder that toughes the middle ring of the frame.  I then took off the drawer assembly and drill a larger hole to allow me to press in the heated inserts.  I then also drill out the hole in the frame to allow an M3 screw to go through it, then I tapered that hole in the frame to allow the screw to sit fluch with the frame.  Once that's all  done, you can put it all back together.  You want to put the utility arm carrier/Center vent holder back first since the screws will not be accesible once the drawer assembly is on.  
+
 
 Thamks to Doc Snyder and Matt Hobbs for the inspiration for these drawers.
