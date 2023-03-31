@@ -4,7 +4,11 @@
 
  Drawers for the horizontal body panels.  I designed this for the COM-8 CSR frame.  It can be mounted to the frame, or to the skins.  
 
- I have included the STL's and the Fusion 360 file that you can open and edit anything you'd like.  
+ I have included the STL's and the Fusion 360 file that you can open and edit anything you'd like.  Each drawer is split up into 4 parts.  
+ 1. Drawer Holder
+ 2. Drawer Body
+ 3. Drawer Servo Arm Attachment
+ 4. Skin Mount(Optional if you are mounting it to the skin instead of the frame)
 
  Hardware Needed:
  1. ES08MA II Servos - Qty:4 [Link](https://www.amazon.com/dp/B07RRWYXL9?psc=1&ref=ppx_yo2ov_dt_b_product_details)  (HITEC HS65 will also work)
@@ -28,12 +32,16 @@ I used a soldering iron and pressed in the inserts to the side of each holder.
 
 I then sanded the sides of each of the holders to make sure they sit flush with each other. Sometimes the pressing of the inserts leaves extra plastic stickup up and any if the sides aren't completely flush, it can cause the alignment to be off.  
 
-I sanded the bottom of the drawrers and the holders to make sure the drawers slide smoothly.  With 3D printing, the top layer is rarely very smooth and likely has some variations.
+You can then screw them together with the M3x10 screws(Not the tapered head ones)
+![screws](/Images/Screws.png)
+
+I sanded the bottom of the drawrers and the top of the holders where the drawers sit on and slide to make sure the drawers slide smoothly.  With 3D printing, the top layer is rarely very smooth and likely has some variations.
+![sanded](/Images/Sanded.png)
 
 I sanded the bottom of the drawer guides on the holders that stick out to prevent the drawers from lifting up.
 ![Sanded Undersides](/Images/Sanded%20undersides.png)
 
-THere are holes in the drawers behind the magnets for 2 purposes.  1 is to allow you to get the magnets out if you need to by poking it out from the back, and the 2nd is to allow a place for the glue to go when gluing in the magnets.  
+THere are holes in the drawers behind the magnets for 2 purposes.  1 is to allow you to get the magnets out if you need to by poking it out from the back, and the 2nd is to allow a place for the glue to go when gluing in the magnets.  I found it easier to put all the magnets in the servo arm attachement first.  Then I placed the magnets for the body onto the magnets in the servo arm attachment and push them in into the body and twised the servo arm attachment away leaving the magnets with the correct polarity in the drawer body.  This helped not only assure the polarity is correct, but also helped me insert the magnets without twisting them.
 
 
 Thamks to Doc Snyder and Matt Hobbs for the inspiration for these drawers.
