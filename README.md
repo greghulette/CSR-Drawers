@@ -1,15 +1,17 @@
-# CSR-Drawers
+# Horizontal Drawers for the COM-8 CSR Frame
 
 ![Image](/Images/Home_View.png)
 
  Drawers for the horizontal body panels.  I designed this for the COM-8 CSR frame.  It can be mounted to the frame, or to the skins.  
 
+ I have included the STL's and the Fusion 360 file that you can open and edit anything you'd like.  
+
  Hardware Needed:
- Servos x4: 
- (4) #0-80 5/8" Screws
- (8-24) #0-80 nuts
- (3) M3x10mm screws
- (3) M3x5 scews
+ - 1. Servos x4: 
+ - 2. (4) #0-80 5/8" Screws
+ - 3. (8-24) #0-80 nuts
+ - 4. (3) M3x10mm screws
+ - 5. (3) M3x5 scews
  (6) M3 pressed/heated inserts
  (96) 10x5x2mm neodynium N48 Magnets (24 each drawer)
   (7) #4-40 1/2" tapered flat head screw
