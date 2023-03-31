@@ -20,7 +20,13 @@
 
 I cut the longest servo arm that came with the servos.  This is the doublesided one.  I cut one side of it off.  I then drilled out the middle hole with a 1/16" drill bit to allow the bolt to go through.  
 
-I sanded the sides of each of the holders to make sure they sit flush with each other.  Any variations can cause the alignement to be off.  
+I put 2 nuts on each of the #0-80 screws and tightened them against each other to prevent the nut from coming loose.  
+![Nuts](/Images/Nuts.png)
+
+I used a soldering iron and pressed in the inserts to the side of each holder.  
+![Inserts](/Images/Pressed%20Inserts.png)
+
+I then sanded the sides of each of the holders to make sure they sit flush with each other. Sometimes the pressing of the inserts leaves extra plastic stickup up and any if the sides aren't completely flush, it can cause the alignment to be off.  
 
 I sanded the bottom of the drawrers and the holders to make sure the drawers slide smoothly.  With 3D printing, the top layer is rarely very smooth and likely has some variations.
 
