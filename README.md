@@ -18,7 +18,7 @@
  9. (7) #4-40 Lock nuts (optional for skirt mount)
  
 
- 1/16" drill bit on third/middle hole of the long servo horn that has one side cut off.  
+I cut the longest servo arm that came with the servos.  This is the doublesided one.  I cut one side of it off.  I then drilled out the middle hole with a 1/16" drill bit to allow the bolt to go through.  
 
 
 
