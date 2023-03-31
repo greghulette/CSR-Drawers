@@ -16,11 +16,10 @@
  3. #0-80 nuts - Qty: 8
  4. M3x10mm screws - Qty: 6
  5. M3 pressed/heated inserts - Qty: 6  (I also use thse to mount to my frame so I used 11 in total)
- 
- 6  10x5x2mm neodynium N48 Magnets Qty: 88 [Link](https://www.amazon.com/dp/B0B6PBXBVJ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+ 6.  10x5x2mm neodynium N48 Magnets Qty: 88 [Link](https://www.amazon.com/dp/B0B6PBXBVJ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
  7. M3x10 tapered screws - Qty: 5 (Only used if you are using the pressed inserts to mount the drawers to the frame)
- 7. #4-40 1/2" tapered flat head screw (optional for skirt mount) - Qty 7
- 8. #4-40 Lock nuts (optional for skirt mount) - Qty 7
+ 8. #4-40 1/2" tapered flat head screw (optional for skirt mount) - Qty 7
+ 9. #4-40 Lock nuts (optional for skirt mount) - Qty 7
  
 
 I cut the longest servo arm that came with the servos.  This is the doublesided one.  I cut one side of it off.  I then drilled out the middle hole with a 1/16" drill bit to allow the bolt to go through.  
