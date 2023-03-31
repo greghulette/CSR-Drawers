@@ -31,6 +31,7 @@ I then sanded the sides of each of the holders to make sure they sit flush with 
 I sanded the bottom of the drawrers and the holders to make sure the drawers slide smoothly.  With 3D printing, the top layer is rarely very smooth and likely has some variations.
 
 I sanded the bottom of the drawer guides on the holders that stick out to prevent the drawers from lifting up.
+![Sanded Undersides](/Images/Sanded%20undersides.png)
 
 THere are holes in the drawers behind the magnets for 2 purposes.  1 is to allow you to get the magnets out if you need to by poking it out from the back, and the 2nd is to allow a place for the glue to go when gluing in the magnets.  
 
