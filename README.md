@@ -11,7 +11,7 @@
  4. Skin Mount(Optional if you are mounting it to the skin instead of the frame)
 
  Hardware Needed:
- 1. ES08MA II Servos - Qty:4 - [Link](https://www.amazon.com/dp/B07RRWYXL9?psc=1&ref=ppx_yo2ov_dt_b_product_details)  (HITEC HS65 will also work)
+ 1. ES08MA II Servos - Qty:4 - [Link](https://www.amazon.com/dp/B07RRWYXL9?psc=1&ref=ppx_yo2ov_dt_b_product_details)  (HITEC HS65 will also work but the standard servo arms that come with them are not long enough.  You will need to get longer arms.Somthing longer than 20mm.  The hole needs to be about 18mm from the pivot point.)
  2. #0-80 5/8" Screws - Qty: 4
  3. #0-80 nuts - Qty: 8
  4. M3x10mm screws - Qty: 6
